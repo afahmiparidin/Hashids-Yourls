@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Hashids
-Plugin URI: http://yourls.org/
+Plugin Name: Hashids-Yourls
+Plugin URI: https://github.com/afahmiparidin/Hashids-Yourls/
 Description: To change different type of hashing keyword.
 Version: 0.1
 Author: afahmiparidin
