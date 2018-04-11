@@ -4,7 +4,9 @@ Plugin for YOURLS
 
 ##Description
 
-Based off ozh, peterberbec, giveforward and LudoBoggio's work. Credit to all of them.
+Based off ozh, peterberbec, giveforward and LudoBoggio's work. And not forget to ivanakimov, the writer of Hashids. 
+https://github.com/ivanakimov/hashids.php
+Credit to all of them.
 
 Overrides default behavior allowing: a custom minimum link length and links are random. Does not use the sequential incrementing. The plugin generates unique keyword based on next_id. It does not mess with existing links or custom links, only new,unique and randomly generated links. Keyword minimum length and character set are user-controlled via the admin interface.
 
