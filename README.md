@@ -1,6 +1,6 @@
 # Keywords, Unique Random Charset & Length
 
-Plugin for YOURLS to create a random URL string, with a minumim length
+Plugin for YOURLS to create a random URL string, with a minimum length
 
 ## Description
 
